@@ -11,8 +11,6 @@ This project builds a simple multiple linear regression model using Python to pr
 
 - `MovieRevenue.py` – Python script that reads the dataset, builds the regression model, prints summary statistics, and predicts revenue for a sample input.
 - `HW 6 Data.xlsx` – Excel dataset (not included here; expected to be in the same folder as the `.py` file).
-- `HW6_Report.pdf` – Final academic report written in LaTeX format.
-- `HW6_Code.txt` – Plain text version of the code for submission (if required).
 
 ---
 
@@ -41,11 +39,6 @@ This project builds a simple multiple linear regression model using Python to pr
 ## 📈 Sample Output
 
 ```bash
-Dataset Preview:
-   BoxOfficeRevenue  ProductionBudget  GenrePopularity  CastStarPower
-0               500               100                8              9
-...
-
 Model Summary:
 Intercept: -103.86
 Coefficient for ProductionBudget: 3.60
